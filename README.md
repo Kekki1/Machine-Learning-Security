@@ -1,5 +1,6 @@
 # Transformer Explainability and Adversarial Analysis for Emotion Classification
 
+
 This project explores how a transformer-based emotion classification model behaves under different explainability methods and simple adversarial perturbations.
 
 The core workflow is implemented in the notebook `main.ipynb`, which:
@@ -12,8 +13,8 @@ The notebook uses the pretrained model `bhadresh-savani/bert-base-uncased-emotio
 
 ## Project structure
 
-- `main.ipynb` — main notebook containing the full experimental pipeline. :contentReference[oaicite:2]{index=2}
-- `requirements.txt` — Python dependencies required to run the notebook. :contentReference[oaicite:3]{index=3}
+- `main.ipynb` — main notebook containing the full experimental pipeline.
+- `requirements.txt` — Python dependencies required to run the notebook.
 
 ## Main goals
 
@@ -77,3 +78,14 @@ Create a virtual environment and install the dependencies from `requirements.txt
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Team
+
+This project was developed as part of the **Machine Learning Security** course.
+
+**Team Members:**
+
+- Marras Francesco
+- Melis Giulia
+---
